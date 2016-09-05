@@ -1,0 +1,1 @@
+# java-message-properties-inspector
