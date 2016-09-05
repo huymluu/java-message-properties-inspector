@@ -1,5 +1,5 @@
-MESSAGE_PROPERTIES_ROOT_DIR=
-MESSAGE_PROPERTIES_FILE_PATTERN=
-SRC_PROPERTIES_ROOT_DIR=
+MESSAGE_PROPERTIES_ROOT_DIR=/home/lmhuy/repo/axon-insight-app/app/ai-web-app/src/main/webapp/resources/
+MESSAGE_PROPERTIES_FILE_PATTERN=Messages*.properties
+SRC_PROPERTIES_ROOT_DIR=/home/lmhuy/repo/axon-insight-app
 IGNORED_KEYS_FILE=./ignored-keys
 RESULTS_ROOT_DIR=./results/
